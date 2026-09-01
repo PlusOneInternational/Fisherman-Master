@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Fisherman-Master.sln"
+    "dotnet.defaultSolution": "Fisherman-Master.slnx"
 }
